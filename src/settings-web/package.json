@@ -29,7 +29,7 @@
     ]
   },
   "dependencies": {
-    "@svgr/webpack": "^4.3.3",
+    "@svgr/webpack": "^6.0.0",
     "@uifabric/azure-themes": "^7.5.39",
     "@uifabric/styling": "^7.16.17",
     "office-ui-fabric-react": "^7.149.4",
